@@ -1,0 +1,28 @@
+body{
+    justify-content: center;
+    display: flex;
+    padding-top: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #3E3E3E;
+    text-align: center;  
+    background-color: #72adf9;
+}
+.fram{
+    width: 420px;
+    height: 390px;
+    background-color: rgb(191, 218, 242);
+    border-radius:5px ;
+    box-shadow: 0rem, 1rem,2rem;
+    text-align: center;
+    justify-content: center;
+}
+.btlogin{
+    color: rgb(0, 0, 11);
+    font-size: 15px;
+    width: 75px;
+    height: 24px ;
+    text-align: center;
+    border-radius: 5px ;
+    background-color: #72adf9;
+    border: solid 1px  #72adf9;
+}

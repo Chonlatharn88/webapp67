@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: aqua;
+    box-shadow: 0rem -0.1rem 0.2rem rgb(160, 159, 159);
+    display: flex;
+    justify-content: baseline;
+    padding: 0rem 2rem;
+    align-items: center;
+    font-family: monospace;
+    height: 45px;
+    font-size: 15px;
+}
+.pictop{
+    display: flex;
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+    gap: 30px;
+}
+.breadcrumb {
+    padding: 10px 20px;
+    background-color: #f8f8f8;
+    font-size: 14px;
+    color: #555;
+}
+.breadcrumb a {
+    text-decoration: none;
+    color: #555;
+}
+footer{
+    text-align: center;
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+}

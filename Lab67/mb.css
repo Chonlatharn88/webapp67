@@ -1,0 +1,26 @@
+body{
+    justify-content: center;
+    display: flex;
+    padding-top: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #3E3E3E;
+    text-align: center;  
+    background-color: #72adf9;
+}
+.card {
+    background-color: #f0f0f5;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 200px;
+}
+.iconpic{
+    display: flex;
+    width: 200px;
+    height: 200px;
+}
+.container{
+    display: flex;
+    gap: 50px;
+}
